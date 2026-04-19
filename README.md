@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="terraform" src="https://github.com/user-attachments/assets/433d64d3-05b1-4147-9a75-d9050c63105e" />
 # 🚀 AWS Production Infrastructure using Terraform
 
 This project demonstrates a **production-ready AWS cloud infrastructure** built using Terraform.  
